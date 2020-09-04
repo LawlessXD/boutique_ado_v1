@@ -23,7 +23,7 @@ SECRET_KEY = "p@ei#69*b*zz3u4yie-$()@cy^l(+x9&@6ypx+r0lm(3%_9hr7"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['dl-boutique-ado.herokuapp,com','127.0.0.1']
+ALLOWED_HOSTS = ['dl-boutique-ado.herokuapp.com','127.0.0.1']
 
 
 # Application definition
